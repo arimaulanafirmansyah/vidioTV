@@ -1,0 +1,2 @@
+format proxy
+username:password@hostproxy:port
