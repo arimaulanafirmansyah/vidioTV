@@ -1,6 +1,7 @@
 # Vidio Tools
-- Creating Account With Proxy And Login TV Input Code TV
+- 1. Creating Account With Proxy And Login TV Input Code TV
 - Custome Domain And Password Edit In appConfig.json
+- 2. Auto Change Email
 
 + License? Contact Admin
 Whatsapp : 6285157792618
