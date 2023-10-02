@@ -5,4 +5,4 @@
 + License? Contact Admin
 Whatsapp : 6285157792618
 
-$ Telegram Channel : https://t.me/chamfcode
++ Telegram Channel : https://t.me/chamfcode
