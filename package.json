@@ -5,10 +5,12 @@
     "axios": "^1.4.0",
     "axios-https-proxy-fix": "^0.17.1",
     "delay": "^5.0.0",
+    "figlet": "^1.6.0",
     "fs": "^0.0.1-security",
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.0",
     "node-fetch": "^2.6.0",
+    "node-random-name": "^1.0.1",
     "readline-sync": "^1.4.10",
     "xml2js": "^0.6.2"
   }
