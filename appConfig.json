@@ -1,5 +1,6 @@
 {
   "password": "amfcode123",
   "domain": "gmail.com",
-  "license": "isi license mu"
+  "license": "isi license mu",
+  "proxy": "username:password@hostproxy:port"
 }
